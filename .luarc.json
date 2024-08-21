@@ -2,6 +2,7 @@
     "diagnostics.globals": [
         "vim",
         "dashboard",
-        "cmp"
+        "cmp",
+        "prompts"
     ]
 }
